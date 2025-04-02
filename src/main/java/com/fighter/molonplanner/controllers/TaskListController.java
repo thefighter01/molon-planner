@@ -1,4 +1,4 @@
-package com.fighter.molonplanner.controllera;
+package com.fighter.molonplanner.controllers;
 
 
 import com.fighter.molonplanner.domain.dto.TaskListDto;
