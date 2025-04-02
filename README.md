@@ -46,7 +46,7 @@ A sophisticated task management system with nested task lists and priority-based
 
 ### Architecture
 
-![System Architecture Diagram](img/architecture.png)
+![System Architecture Diagram](img/design.png)
 
 ---
 
